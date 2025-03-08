@@ -1,6 +1,6 @@
 /*
-Name: Om Narayan Pandit
-PRN: 23070126083
+Name: parth bagle
+PRN: 23070126085
 Batch: AIML B1
 */
 
